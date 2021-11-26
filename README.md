@@ -1,9 +1,3 @@
-# feedbin
-
-Whole Feedbin stack in a container.
-
-## Usage
-
 #### Add DNS Records
 
 - `feedbin.domain.name`
